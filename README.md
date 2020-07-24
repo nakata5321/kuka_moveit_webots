@@ -1,10 +1,10 @@
 # kuka_moveit_webots
 Extra package, headers, lib for correct work of kuka package by A. Ovcharov
 
-0)    update:
+0)    update: 
 sudo apt-get update
-sudo apt-get dist-upgrade
-1)    install ros melodic:
+sudo apt-get dist-upgrade 
+1)    install ros melodic: 
 http://wiki.ros.org/melodic/Installation/Ubuntu
 2)    install webots
 sudo apt-get install webots
